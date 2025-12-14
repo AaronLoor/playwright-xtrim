@@ -28,7 +28,7 @@ Para ejecutar este proyecto necesitas:
 Clonar el repositorio:
 
 ```bash
-git clone <https://github.com/AaronLoor/playwright-xtrim.git>
+git clone https://github.com/AaronLoor/playwright-xtrim.git
 cd playwright-xtrim
 ```
 
