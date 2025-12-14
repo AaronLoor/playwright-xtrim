@@ -29,6 +29,11 @@ Clonar el repositorio:
 
 ```bash
 git clone https://github.com/AaronLoor/playwright-xtrim.git
+```
+
+Acceder al directorio que dejó el clone del proyecto:
+
+```bash
 cd playwright-xtrim
 ```
 
